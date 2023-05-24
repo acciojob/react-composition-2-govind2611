@@ -1,1 +1,13 @@
 
+.parent{
+    background-color: cadetblue;
+    padding: 10px;
+  }
+
+  .modal-dialog{
+    background-color: coral;
+    padding: 10px;
+  }
+
+  
+ 
